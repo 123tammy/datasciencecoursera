@@ -1,2 +1,3 @@
 ##This is a Markdown file
-git push
+$ git push 123tammy datasciencecoursera
+
